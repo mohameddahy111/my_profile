@@ -1,16 +1,8 @@
 import {
-  Chat,
   ChatBubbleOutlineOutlined,
-  ChatBubbleSharp,
-  FacebookOutlined,
-  FacebookRounded,
   FacebookSharp,
-  HtmlOutlined,
   Instagram,
   MailOutlined,
-  MessageOutlined,
-  MessageRounded,
-  MessageTwoTone,
   PhoneAndroid,
   WhatsApp,
 } from '@mui/icons-material';
@@ -27,7 +19,6 @@ import {
   ThemeProvider,
   Typography,
 } from '@mui/material';
-import { style } from '@mui/system';
 import Head from 'next/head';
 import Image from 'next/image';
 import Conntect from '../compents/Conntect';
