@@ -1,6 +1,7 @@
 import {
   ChatBubbleOutlineOutlined,
   FacebookSharp,
+  GitHub,
   Instagram,
   MailOutlined,
   PhoneAndroid,
@@ -185,10 +186,10 @@ export default function Home() {
                 text2={<Typography>mohameddahy</Typography>}
                 i={'http://'}
                 text={
-                  'www.facebook.com/coktail.eltibe/?notif_id=1646748173030231&notif_t=page_user_activity&ref=notif'
+                  'facebook.com/MR.DAHY'
                 }
               />
-              <Conntect icon={<Instagram />} text2={'mohameddahy11'} />
+              <Conntect icon={<GitHub />} i={'http://'}  text={'github.com/mohameddahy111'} text2={'github.com/mohameddahy111'} />
               <Conntect
                 icon={<ChatBubbleOutlineOutlined />}
                 text2={'mohameddahy11'}
